@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Jame3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|c:\\jame3d\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|c:\\jame3d\\assets\\scripts\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|C:\\Jame3D\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|C:\\Jame3D\\assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanvasController.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\CanvasController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasController.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\CanvasController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T14:16:02.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T14:15:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseLook.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T14:15:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T14:15:51.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
