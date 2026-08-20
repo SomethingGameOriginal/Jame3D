@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Jame3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|c:\\jame3d\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|c:\\jame3d\\assets\\scripts\\player\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|c:\\jame3d\\assets\\scripts\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|C:\\Jame3D\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|C:\\Jame3D\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|C:\\Jame3D\\assets\\scripts\\canvas\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvas\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|C:\\Jame3D\\assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|C:\\Jame3D\\assets\\scripts\\canvas\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940279C1-7219-8879-40E4-E4583261EE13}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvas\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +31,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CanvasController.cs",
-              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\CanvasController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasController.cs",
-              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\CanvasController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CanvasController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAgAAAAAAAAAA==",
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T14:16:02.22Z",
+              "WhenOpened": "2026-08-13T17:23:50.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\GameState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
-              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\GameState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Assets\\Scripts\\Player\\MouseLook.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\Player\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MouseLook.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\Player\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MouseLook.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T14:15:51.689Z",
+              "WhenOpened": "2026-08-14T10:16:21.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanvasController.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\Canvas\\CanvasController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Canvas\\CanvasController.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\Canvas\\CanvasController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Canvas\\CanvasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:23:50.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MouseLook.cs",
-              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\MouseLook.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseLook.cs",
-              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\MouseLook.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\Canvas\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Canvas\\GameState.cs",
+              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\Canvas\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Canvas\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T14:15:51.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Jame3D\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Jame3D\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T14:15:51.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:23:50.589Z"
             }
           ]
         }
