@@ -15,9 +15,6 @@ public class PlayerController : MonoBehaviour
     public float fallMultiplier;
 
     private float velocityY;
-
-    //bool inBufferZone = false;
-    //bool bufferedJump = false;
     void Start()
     {
         cc = GetComponent<CharacterController>();

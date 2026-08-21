@@ -5,9 +5,16 @@ public class CanvasController : MonoBehaviour
     public GameObject pause;
     GameState gameState;
     bool isPause = false;
-    void Start()
+    void Awake()
     {
+        pause = GameObject.Find("PAUSE");
         gameState = pause.GetComponent<GameState>();
+
+        float sensitivity = PlayerPrefs.GetFloat("MouseSensitivity", gameState.mouseLook.mouseSensitivity);
+        gameState.sldrSensitivity.value = sensitivity;
+        gameState.mouseLook.mouseSensitivity = sensitivity;
+
+        pause.SetActive(false);
     }
     void Update()
     {

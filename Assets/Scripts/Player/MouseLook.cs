@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MouseLook : MonoBehaviour
 {
-    public float mouseSensitivity = 1000f;
+    public float mouseSensitivity = 1000;
     GameObject player;
     PlayerController playerController;
     float xRotation;
@@ -64,5 +64,9 @@ public class MouseLook : MonoBehaviour
             bobikTimer = 0;
             transform.localPosition = Vector3.Lerp(transform.localPosition, startLocalPosition, Time.deltaTime * bobikSmoothing);
         }
+    }
+    public void SetSensitivity(float value)
+    {
+        mouseSensitivity = value;
     }
 }
