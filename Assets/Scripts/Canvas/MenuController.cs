@@ -6,6 +6,9 @@ public class MenuController : MonoBehaviour
     public Button btnQuit;
     void Start()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+
         btnQuit.onClick.AddListener(Quit);
     }
     void Update()
