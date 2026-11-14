@@ -58,6 +58,10 @@ public class PlayerController : MonoBehaviour
         else if (Input.GetKeyUp(KeyCode.LeftShift))
             speed -= speedShift;
     }
+    public float GetVerticalVelocity()
+    {
+        return velocityY;
+    }
     private void OnControllerColliderHit(ControllerColliderHit hit)
     {
         Rigidbody rb = hit.collider.attachedRigidbody;
