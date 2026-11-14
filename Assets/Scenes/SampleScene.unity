@@ -628,7 +628,6 @@ GameObject:
   - component: {fileID: 330585544}
   - component: {fileID: 330585547}
   - component: {fileID: 330585548}
-  - component: {fileID: 330585549}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -767,36 +766,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mouseSensitivity: 1000
-  runTransition: 0.2
+  runTransition: 0.3
   horizontalTiltAngle: 1
   horizontalTiltSmooth: 0.15
   verticalTiltAngle: 1
   verticalTiltSensitivity: 0.5
   verticalTiltSmooth: 0.15
-  bobikSpeed: 12
-  bobikPlusSpeed: 2
-  AmplitudeX: 0.015
+  bobikSpeed: 8
+  bobikPlusSpeed: 6
+  AmplitudeX: 0.07
   AmplitudeY: 0.05
-  AmplitudeXRun: 0.017
+  AmplitudeXRun: 0.09
   AmplitudeYRun: 0.07
-  bobikSmoothing: 2
---- !u!114 &330585549
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 330585543}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b94b36d3fd713047b1161efaa64d4ea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CameraTilt
-  player: {fileID: 612842300}
-  horizontalAngle: 3
-  horizontalSmooth: 5
-  verticalAngle: 3
-  verticalSmooth: 5
+  bobFadeIn: 0.15
+  bobFadeOut: 0.2
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -2342,10 +2325,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 188416135}
   m_HandleRect: {fileID: 1858328798}
   m_Direction: 0
-  m_MinValue: 100
-  m_MaxValue: 2000
+  m_MinValue: 50
+  m_MaxValue: 500
   m_WholeNumbers: 1
-  m_Value: 1000
+  m_Value: 275
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
