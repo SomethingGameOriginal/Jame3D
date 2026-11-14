@@ -5,3 +5,9 @@
 [Ll]ogs/
 [Uu]serSettings/
 [Mm]emoryCaptures/
+
+# Visual Studio
+.vs/
+
+# Unity
+[Tt]emp/
